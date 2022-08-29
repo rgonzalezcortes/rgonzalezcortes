@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rgonzalezcortes
+- 👀 I’m interested in ... statistical programming + data analysis
+- 🌱 I’m currently learning ... R, SQL
+- 📫 How to reach me ... rgonzalezcortes2@gmail.com
